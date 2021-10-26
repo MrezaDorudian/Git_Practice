@@ -1,1 +1,2 @@
-initrialized for first commit
+initialized for first commit
+(typo fixed)
