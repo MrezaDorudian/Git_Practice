@@ -1,0 +1,14 @@
+diff --git a/FileB.txt b/FileB.txt
+new file mode 100644
+index 0000000..fe80210
+--- /dev/null
++++ b/FileB.txt
+@@ -0,0 +1 @@
++not completed B
+diff --git a/FileC.txt b/FileC.txt
+new file mode 100644
+index 0000000..271a67a
+--- /dev/null
++++ b/FileC.txt
+@@ -0,0 +1 @@
++Not Completed C
